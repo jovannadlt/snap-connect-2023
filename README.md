@@ -36,12 +36,4 @@ The communities page is similar to Journals Screen but now you are able to commu
 
 ![img5](https://github.com/Snap-Engineering-Academy-2023/snap-connect-foster-youth/assets/94669951/6ca0d3d8-53d8-4956-8343-66fec52ccb23)
 
-<<<<<<< HEAD
-=======
-![describe pull request](https://github.com/Snap-Engineering-Academy-2023/snapchat-starter/assets/7607483/b608c668-b48a-4f2f-b007-a28dbc8e89a0)
-
-In your pull request, please be specific about what updates you have added. The header should summarize the main fixes that your edits address and your comment
-should include specific details of exactly what was changed. Please include screenshots of the edited screen before and after your changes. Here is a great 
-example from Felicia.
-<img width="1065" alt="image" src="https://github.com/Snap-Engineering-Academy-2023/snapchat-starter/assets/74020035/12043923-5cd6-4085-a285-d8ec64fd8c43">
 
