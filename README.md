@@ -45,23 +45,3 @@ should include specific details of exactly what was changed. Please include scre
 example from Felicia.
 <img width="1065" alt="image" src="https://github.com/Snap-Engineering-Academy-2023/snapchat-starter/assets/74020035/12043923-5cd6-4085-a285-d8ec64fd8c43">
 
-
-### F - View your created pull request
-
-![view created pull request](https://github.com/Snap-Engineering-Academy-2023/snapchat-starter/assets/7607483/967d52d6-15e5-4920-9cc2-53c06872bfc5)
-
-</details>
-
-<br/>
-
-<br/>
-
-## 5. Review and Merge your changes
-
-After you've created a pull request, it can merged into the main branch!
-
-The instructors will likely handle most of this process, consulting with the creator of each pull request as needed.
-# snap-connect-2023
->>>>>>> 4abdf2c (first commit)
-# snap-connect-2023
-# snap-connect-2023
