@@ -17,22 +17,27 @@ The code's framework is React Native and coded in JSX format. You would need to 
 ## 3. Screenshots of Application
 
 Here the feature lives in the Chat Screen of the Snap App. 
-<img width="240" alt="Screenshot 2025-01-06 at 1 48 02 PM" src="https://github.com/user-attachments/assets/93b7b8f4-d013-41b1-b6bf-9a7fe46d1b45" />
+
+<img width="240" alt="Screenshot 2025-01-06 at 1 47 15 PM" src="https://github.com/user-attachments/assets/fba357e6-6f33-45af-a648-d616f5a4eb6e" />
+
 
 When we enter by clicking the Snap Connect Icon, we are able to see the main page with the three main compoenents, Journals, Friend Suggestions and Community.
 
-![img2](https://github.com/Snap-Engineering-Academy-2023/snap-connect-foster-youth/assets/94669951/428abf30-3c29-4877-8b54-7bfa67362234)
+<img width="249" alt="Screenshot 2025-01-06 at 1 47 46 PM" src="https://github.com/user-attachments/assets/5e3d611d-2808-4a52-ad06-38cc4006b39a" />
+
 
 Let's head into the Journals Screen. Here we can see the variety of text, image and recording posts.
 
-![img3](https://github.com/Snap-Engineering-Academy-2023/snap-connect-foster-youth/assets/94669951/9868a909-36d8-4cee-ba4e-b09b83450219)
+<img width="236" alt="Screenshot 2025-01-06 at 1 47 51 PM" src="https://github.com/user-attachments/assets/8e1fbfba-0f48-4daa-b216-9451ddd65cba" />
+
 
 Lets try to make a post. Here you have the AI Chatbot on top. With text input as the default setting. There you have a selection of the additional formats you want to add to the post. Once you are done, you can submit it.
 
-![img4](https://github.com/Snap-Engineering-Academy-2023/snap-connect-foster-youth/assets/94669951/6ba6efaf-f2e3-4816-9cd9-7d6ca9d1aef9)
+<img width="240" alt="Screenshot 2025-01-06 at 1 48 02 PM" src="https://github.com/user-attachments/assets/41303c28-8edb-4fd5-bc65-eff51255c8b9" />
+
+
 
 The communities page is similar to Journals Screen but now you are able to communicate with other Foster Youth on topics like Resources!
 
-![img5](https://github.com/Snap-Engineering-Academy-2023/snap-connect-foster-youth/assets/94669951/6ca0d3d8-53d8-4956-8343-66fec52ccb23)
-
+<img width="235" alt="Screenshot 2025-01-06 at 1 47 57 PM" src="https://github.com/user-attachments/assets/eb38346d-9cb4-43f8-ab09-ef37af0d305e" />
 
