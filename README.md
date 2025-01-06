@@ -17,8 +17,7 @@ The code's framework is React Native and coded in JSX format. You would need to 
 ## 3. Screenshots of Application
 
 Here the feature lives in the Chat Screen of the Snap App. 
-
-![testtest1](https://github.com/Snap-Engineering-Academy-2023/snap-connect-foster-youth/assets/94669951/20cec334-1671-4fc1-a1e0-37504dd82eb2)
+<img width="240" alt="Screenshot 2025-01-06 at 1 48 02 PM" src="https://github.com/user-attachments/assets/93b7b8f4-d013-41b1-b6bf-9a7fe46d1b45" />
 
 When we enter by clicking the Snap Connect Icon, we are able to see the main page with the three main compoenents, Journals, Friend Suggestions and Community.
 
