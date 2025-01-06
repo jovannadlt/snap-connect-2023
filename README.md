@@ -33,11 +33,9 @@ Let's head into the Journals Screen. Here we can see the variety of text, image 
 
 Lets try to make a post. Here you have the AI Chatbot on top. With text input as the default setting. There you have a selection of the additional formats you want to add to the post. Once you are done, you can submit it.
 
-<img width="240" alt="Screenshot 2025-01-06 at 1 48 02 PM" src="https://github.com/user-attachments/assets/41303c28-8edb-4fd5-bc65-eff51255c8b9" />
-
+<img width="235" alt="Screenshot 2025-01-06 at 1 47 57 PM" src="https://github.com/user-attachments/assets/eb38346d-9cb4-43f8-ab09-ef37af0d305e" />
 
 
 The communities page is similar to Journals Screen but now you are able to communicate with other Foster Youth on topics like Resources!
 
-<img width="235" alt="Screenshot 2025-01-06 at 1 47 57 PM" src="https://github.com/user-attachments/assets/eb38346d-9cb4-43f8-ab09-ef37af0d305e" />
-
+<img width="240" alt="Screenshot 2025-01-06 at 1 48 02 PM" src="https://github.com/user-attachments/assets/41303c28-8edb-4fd5-bc65-eff51255c8b9" />
